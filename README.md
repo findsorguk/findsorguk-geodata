@@ -18,3 +18,6 @@ The [scripts](scripts) directory contains the original scripts used to convert t
 
 The original data was released under the [Open Government Licence](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
 Contains Ordnance Survey data © Crown copyright and database right 2016.
+
+Release 1.0 
+[![DOI](https://zenodo.org/badge/29851906.svg)](https://zenodo.org/badge/latestdoi/29851906)
