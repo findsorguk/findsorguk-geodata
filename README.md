@@ -1,5 +1,13 @@
 # GeoJSON administrative boundary line dataset
 
+> [!WARNING]  
+> This version of the The Portable Antiquities Software (PAS) is now archived and ceases to be maintained. You are strongly recommended to not use this software or these repositories going forwards.
+>
+> The replacement website is still live and at the same address [address](https://finds.org.uk). 
+>
+> Please do consider registering for the site and record any suitable finds you may discover - they are always very welcome.
+> Thank you!
+
 This repository contains the full hierarchy of local government administrative and electoral boundaries in
 Great Britain in GeoJSON format. 
 
